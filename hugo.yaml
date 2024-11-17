@@ -1,4 +1,6 @@
-baseURL: https://hugo-toha.github.io
+baseURL:  https://BlackBoxJU50.github.io
+
+
 
 languageCode: bn
 title: "John's Blog"
@@ -68,7 +70,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/BlackBoxJU50/Hasib.io.git
   # Default branch of your Git repo
   gitBranch: main
 
@@ -153,7 +155,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
